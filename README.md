@@ -1,5 +1,5 @@
 # Predicting shoe size - y and Gender - X using decision tree classifier in Scikit-learn
-A simple shoe-size predictor using that classifies  whether a given height, weight and shoe_size are 'male' or 'female' based on dummy data
+A simple shoe-size predictor that classifies whether a given height, weight and shoe_size are 'male' or 'female' based on dummy data
 
 
 # Sample use

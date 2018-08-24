@@ -5,6 +5,6 @@ A simple shoe-size predictor using that classifies  whether a given height, weig
 # Sample use
 
 1.) Go to directory where you save the "FirstClassifier.py". e.g: "C:/Users/dope/Desktop/folder/"
-2.) Run 'python FirstClassifier'
+<br>2.) Run 'python FirstClassifier'
 
 # You can add training samples 
